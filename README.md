@@ -1,4 +1,4 @@
-# Practice Stuff And Other Things
+# Practice Code
 
 ![NothingPersonnelKid](https://i.imgur.com/PHGLWHd.png)
 
@@ -12,17 +12,7 @@ Use and judge at your own leisure.
 
 See the folders for more info but it is:
 
-- Mostly C#
-- And some EF
-- Some Python
-- React.js
-
-## Parts
-
-- Binary Search Tree
-- HashMap
-- Stack
-- Linked List
-- Several CodeWars Katas (in Dojos folder)
-- EF Practice
-- Socketing
+- C#
+- Java
+- Python
+- React
